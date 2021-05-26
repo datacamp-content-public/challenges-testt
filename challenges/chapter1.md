@@ -46,7 +46,7 @@ Assuming `matplotlib.pyplot` is imported as `plt`, which command clears the curr
 
 ```yaml
 type: OutputChallenge
-key: 6258197972
+key: '6258197972'
 ```
 
 `@context`
